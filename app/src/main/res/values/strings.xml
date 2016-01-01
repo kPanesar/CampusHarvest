@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Campus Harvest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Drawer Opened</string>
+    <string name="drawer_close">Drawer Closed</string>
+    <string name="about_market_title">About CSUN Farmer\'s Market</string>
+    <string name="market_description">Campus Harvest is designed to assist students, staff, and faculty at Cal State University Northridge who strive to achieve healthy eating habits. Through promotion of the Associated Students, Inc. Farmers’ Market, we incorporate use of the campus network to improve the lives of the CSUN population. We aim to increase the success of vendors that provide fresh produce and organic foods who believe in a sustainable and happy lifestyle. This resource requires absolutely no cost.</string>
+    <string name="farmerMarketDes">The Farmers’ Market at CSUN was launched as an initiative in the Spring semester of 2015. It receives support from The University Corporation, Matador Involvement Center, Department of Police Services, Physical Plant Management, Raw Inspirations, the Office of the Vice President of Student Affairs, the Office of the President, and Recycling Services. The Farmers’ Market opened up with a booming interest from CSUN students and faculty, and quickly generated a campus tradition. The Farmers’ Market is open to everyone.
+
+Due to the evident success of this weekly event throughout the semester, the Associated Students, Inc. has indicated intentions to continue providing Farmers’ Markets in following semesters. The Farmers’ Market occurs every Tuesday from 10AM  to 2 PM, featuring over 20 vendors of diverse backgrounds in food production. </string>
+    <string name="setting_budge_title">Weekly Food Budget</string>
+    <string name="setting_budget_lvl1">$10 - $20</string>
+    <string name="setting_budget_lvl2">$20 - $30</string>
+    <string name="setting_budget_lvl3">$30 - $40</string>
+    <string name="setting_emphasis3_choice1">Sweet Tooth</string>
+    <string name="setting_emphasis3_choice2">Immunity</string>
+    <string name="setting_emphasis3_choice3">Caffeine</string>
+    <string name="btn_save_title">Save</string>
+    <string name="setting_emphasis1_title">Primary Diet Emphasis</string>
+    <string name="setting_emphasis1_choice1">Lean</string>
+    <string name="setting_emphasis1_choice2">Protein Rich</string>
+    <string name="setting_emphasis1_choice3">Brain Food</string>
+    <string name="setting_emphasis2_choice1">Wholesome</string>
+    <string name="setting_emphasis2_choice2">Energy</string>
+    <string name="setting_emphasis2_choice3">Antioxidants</string>
+    <string name="setting_emphasis2_title">Secondary Diet Emphasis</string>
+    <string name="setting_emphasis3_title">Tertiary Diet Emphasis</string>
+    <string name="file_settings">settings.txt</string>
+    <string name="file_grocery_list">groceryList.txt</string>
+    <string name="toast_settings_saved">Settings Saved</string>
+    <string name="file_checklist">checklist.txt</string>
+    <string name="aboutTitle">About</string>
+    <string name="diet_description_text">In order to use this app, you must regularly attend the weekly Farmers’ Market at CSUN. The app is dependent on the goods offered at the Farmers’ Market, so it is useless without participation in this event. Once you complete MY DIET, you will be given a personalized “grocery list” of items to purchase from the weekly Farmers’ Market on Tuesday between 10 AM and 2 PM. The “grocery list” will contain items that fall within your dietary goals and financial restrictions, and are meant to provide you with snack-based nutrients that will help you achieve your dietary goals of that week. This function is conveniently designed to allow modification of your dietary goals after attending the market each week. The MY DIET function also offers a checklist that you can manage before you purchase or as you are purchasing your snacks. For planning your budget, it is ideal to select the items from the list you think you will buy, so that your expense estimate is more accurate.</string>
+    <string name="contact_text">Suggestions? Troubleshooting? Questions? Email us at comments@campusharvest.org</string>
+
+    <!-- Drawer Menu items -->
+    <string-array name="nav_drawer_items">
+        <item>My Diet</item>
+        <item>Market Prices</item>
+        <item>Map</item>
+        <item>Budget &amp; Health Tips</item>
+        <item>About</item>
+    </string-array>
+    <!-- Sliding Menu navigation_drawer_item icons -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_action_restaurant</item>
+        <item>@drawable/dollar</item>
+        <item>@drawable/ic_action_map</item>
+        <item>@drawable/ic_action_heart</item>
+        <item>@drawable/ic_action_info</item>
+    </array>
+
+    <!-- Grains Names -->
+    <string-array name="grains_list_names">
+        <item>French Bread</item>
+        <item>Sweet Bread</item>
+        <item>Crispy Pita Bread</item>
+    </string-array>
+    <!-- Grains Prices -->
+    <string-array name="grains_list_prices">
+        <item>$9.00/loaf</item>
+        <item>$9.00/loaf</item>
+        <item>$7.00/bag</item>
+    </string-array>
+
+    <!-- Vegetable Names -->
+    <string-array name="vegetable_list_names">
+        <item>Lettuce</item>
+        <item>Broccoli</item>
+        <item>Carrots</item>
+        <item>Cucumbers</item>
+        <item>Corn</item>
+        <item>Beets</item>
+        <item>Onions</item>
+        <item>Cilantro</item>
+        <item>Parsley</item>
+
+    </string-array>
+    <!-- Vegetable Prices -->
+    <string-array name="vegetable_list_prices">
+        <item>$3.50/lb.</item>
+        <item>$4.15/lb.</item>
+        <item>$4.00/lb.</item>
+        <item>$2.75/lb.</item>
+        <item>$3.00/lb.</item>
+        <item>$2.75/lb.</item>
+        <item>$4.00/lb.</item>
+        <item>$2.50/lb.</item>
+        <item>$2.25/lb.</item>
+    </string-array>
+
+    <!-- Fruit Names -->
+    <string-array name="fruit_list_names">
+        <item>Cherry Jam</item>
+        <item>Peach Jam</item>
+        <item>Strawberry Jam</item>
+        <item>Mango Jam</item>
+        <item>Blueberry Jam</item>
+        <item>Raspberry Jam</item>
+        <item>Orange Jam</item>
+        <item>Kiwi Jam</item>
+        <item>Jalapeno Salsa</item>
+        <item>Habanero Salsa</item>
+        <item>Apples</item>
+        <item>Oranges</item>
+        <item>Avocados</item>
+        <item>Kiwis</item>
+        <item>Bananas</item>
+        <item>Tangerines</item>
+        <item>Peaches</item>
+        <item>Nectarines</item>
+        <item>Blueberries</item>
+
+    </string-array>
+    <!-- Fruit Prices -->
+    <string-array name="fruit_list_prices">
+        <item>$5.50/jar</item>
+        <item>$5.50/jar</item>
+        <item>$5.50/jar</item>
+        <item>$5.50/jar</item>
+        <item>$5.50/jar</item>
+        <item>$5.50/jar</item>
+        <item>$5.50/jar</item>
+        <item>$5.50/jar</item>
+        <item>$5.50/jar</item>
+        <item>$5.50/jar</item>
+        <item>$2.00/lb.</item>
+        <item>$2.50/lb.</item>
+        <item>$3.75/lb.</item>
+        <item>$2.50/lb.</item>
+        <item>$1.75/lb.</item>
+        <item>$1.50/lb.</item>
+        <item>$3.00/lb.</item>
+        <item>$4.00/lb.</item>
+        <item>$3.25/lb.</item>
+    </string-array>
+
+    <!-- Dairy Names -->
+    <string-array name="dairy_list_names">
+        <item>Goat Milk Apple Yogurt</item>
+        <item>Goat Milk Yogurt </item>
+        <item>Vanilla Yogurt</item>
+        <item>Strawberry Yogurt </item>
+    </string-array>
+    <!-- Dairy Prices -->
+    <string-array name="dairy_list_prices">
+        <item>$5.00/container</item>
+        <item>$5.00/container</item>
+        <item>$5.00/container</item>
+        <item>$5.00/container</item>
+    </string-array>
+
+    <!-- Proteins Names -->
+    <string-array name="proteins_list_names">
+        <item>Almonds</item>
+        <item>Sunflower Seeds</item>
+        <item>Pumpkin Seeds</item>
+        <item>Natural Trail Mix</item>
+    </string-array>
+    <!-- Protein Prices -->
+    <string-array name="proteins_list_prices">
+        <item>$6.00/lb.</item>
+        <item>$4.00/lb.</item>
+        <item>$5.00/lb.</item>
+        <item>$6.00/lb.</item>
+    </string-array>
+
+    <!-- Spices Names -->
+    <string-array name="spice_list_names">
+        <item>Honey</item>
+        <item>Cinnamon Honey</item>
+        <item>Spiced Honey</item>
+    </string-array>
+    <!-- Spices Prices -->
+    <string-array name="spice_list_prices">
+        <item>$4.00/jar</item>
+        <item>$4.00/jar</item>
+        <item>$4.00/jar</item>
+    </string-array>
+
+    <string-array name="caffeine_list_name">
+        <item>Coffee Beans</item>
+        <item>Brazilian Coffee Beans</item>
+        <item>Venezuelan Coffee Beans</item>
+        <item>Colombian Coffee Beans</item>
+        <item>Green Tea Leaves</item>
+        <item>Black Tea Leaves</item>
+    </string-array>
+
+    <string-array name="caffeine_list_prices">
+        <item>$5.25/lb.</item>
+        <item>$5.25/lb.</item>
+        <item>$5.25/lb.</item>
+        <item>$5.25/lb.</item>
+        <item>$3.00/bag</item>
+        <item>$3.00/bag</item>
+    </string-array>
+
+    <!--Vendor List-->
+    <string-array name="vendor_list">
+        <item>Fresh Baked Bread</item>
+        <item>Joes Veggies</item>
+        <item>Jams n Sauce Hut</item>
+        <item>Kon-Yays Fruit Stand</item>
+        <item>Yogurt Heaven</item>
+        <item>Nutty Professor</item>
+        <item>Sarahs Sweet Shoppe</item>
+        <item>Coffee Craze</item>
+    </string-array>
+
+    <string-array name="health_tips">
+        <item>Did you know some vendors reduce their prices on foods such as strawberries between 1 and 2PM?</item>
+        <item>Yogurt Heaven gives discounts to students who buy 3 containers of yogurt or more!</item>
+        <item>Sarah’s Sweet Shoppe has a secret menu for their loyal customers. Ask about their secret items next Tuesday!</item>
+        <item>The more money you put into your budget for food, the more effective your diet will be.</item>
+        <item>Did you know you can start paying off your school loans while in school?</item>
+        <item>Look through your budget and receipt and identify if you can cut those expenses!</item>
+        <item>Using cash instead of credit cards can make it easier to control your spending habits.</item>
+        <item>You’ve got a sweet tooth! Think fruits first!</item>
+        <item>Find the right fitness partner to reach the body you want!</item>
+        <item>Greek yogurt works perfect as a low calorie dressing for salads or even dips.</item>
+        <item>Relieve post-fitness aches by submerging your lower body in a cold bath. Many top athletes use this trick to help reduce soreness after training sessions.</item>
+    </string-array>
+
+</resources>

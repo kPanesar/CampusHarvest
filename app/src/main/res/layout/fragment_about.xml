@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/primary">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/market_description"
+            android:id="@+id/tv_market_description"
+            android:padding="@dimen/activity_vertical_margin"
+            android:background="@color/accent"
+            android:textColor="@android:color/white"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/about_market_title"
+            android:id="@+id/tv_market"
+            android:padding="@dimen/activity_horizontal_margin"
+            android:background="@color/ripple"
+            android:textColor="@android:color/white"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/farmerMarketDes"
+            android:id="@+id/tv_as_market"
+            android:padding="@dimen/activity_vertical_margin"
+            android:background="@color/accent"
+            android:textColor="@android:color/white"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Campus Harvest - My Diet"
+            android:id="@+id/diet_title"
+            android:padding="@dimen/activity_horizontal_margin"
+            android:background="@color/ripple"
+            android:textColor="@android:color/white"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/diet_description_text"
+            android:id="@+id/dietDescription"
+            android:padding="@dimen/activity_vertical_margin"
+            android:background="@color/accent"
+            android:textColor="@android:color/white"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Contact"
+            android:id="@+id/tv_contact_title"
+            android:padding="@dimen/activity_horizontal_margin"
+            android:background="@color/ripple"
+            android:textColor="@android:color/white"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/contact_text"
+            android:id="@+id/tv_contact"
+            android:padding="@dimen/activity_vertical_margin"
+            android:background="@color/accent"
+            android:textColor="@android:color/white"/>
+
+
+        <!--<com.jjoe64.graphview.GraphView
+            android:layout_width="match_parent"
+            android:layout_height="200dip"
+            android:id="@+id/graph"
+            android:background="@android:color/white"/>-->
+
+    </LinearLayout>
+
+</ScrollView>

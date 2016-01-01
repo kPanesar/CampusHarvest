@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-83f3a28a49c34bdf60596a56f998d229ac639a82.jar" />
+    </item>
+    <item
+        jar="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\exploded-aar\com.jjoe64\graphview\4.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ae24ad61a573cd1faf8261f5ec6d8f0cb58ddaad">
+        <dex dex="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\pre-dexed\debug\classes-e84b5182a1df96a675e59931771e5f33e0d6b4c5.jar" />
+    </item>
+    <item
+        jar="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-9a833aa05df8416de43a76bc1a9b625db6c0da43.jar" />
+    </item>
+    <item
+        jar="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\pre-dexed\debug\classes-489e23fde43ebd0315cdb45c019a5469a872aab2.jar" />
+    </item>
+    <item
+        jar="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\pre-dexed\debug\classes-cbd4da6329b886a87d1d4ab42955f871fe9bad8e.jar" />
+    </item>
+
+</items>
