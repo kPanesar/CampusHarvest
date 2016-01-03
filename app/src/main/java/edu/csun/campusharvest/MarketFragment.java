@@ -5,7 +5,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
@@ -86,7 +85,7 @@ public class MarketFragment extends Fragment {
         String[] spiceNames = getResources().getStringArray(R.array.spice_list_names);
         String[] spicePrices = getResources().getStringArray(R.array.spice_list_prices);
 
-        List<MarketListItem> result = new ArrayList<MarketListItem>();
+        List<MarketListItem> result = new ArrayList<>();
 
         for (int i = 0; i < grainsNames.length; i++) {
             MarketListItem item = new MarketListItem();

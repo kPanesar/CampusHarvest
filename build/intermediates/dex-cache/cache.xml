@@ -6,35 +6,35 @@
         jumboMode="false"
         revision="21.1.2"
         sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-83f3a28a49c34bdf60596a56f998d229ac639a82.jar" />
+        <dex dex="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_83f3a28a49c34bdf60596a56f998d229ac639a82.jar" />
     </item>
     <item
-        jar="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\exploded-aar\com.jjoe64\graphview\4.0.0\classes.jar"
+        jar="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest\app\build\intermediates\exploded-aar\com.jjoe64\graphview\4.0.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="ae24ad61a573cd1faf8261f5ec6d8f0cb58ddaad">
-        <dex dex="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\pre-dexed\debug\classes-e84b5182a1df96a675e59931771e5f33e0d6b4c5.jar" />
+        <dex dex="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest\app\build\intermediates\pre-dexed\debug\com.jjoe64-graphview-4.0.0_71e0c38bd8eea97c95b12baeba6eefb5d58dd47c.jar" />
     </item>
     <item
-        jar="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-9a833aa05df8416de43a76bc1a9b625db6c0da43.jar" />
-    </item>
-    <item
-        jar="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jar="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\pre-dexed\debug\classes-489e23fde43ebd0315cdb45c019a5469a872aab2.jar" />
+        <dex dex="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_8b3297e4b3ef9d06b48ca28828aa7b9c9410d70f.jar" />
     </item>
     <item
-        jar="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jar="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_b123d68a1f24cdb3541a6e36f216d7af8e83af4c.jar" />
+    </item>
+    <item
+        jar="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest2\CampusHarvest\app\build\intermediates\pre-dexed\debug\classes-cbd4da6329b886a87d1d4ab42955f871fe9bad8e.jar" />
+        <dex dex="D:\Users\Karanvir\Documents\Android\projects\CampusHarvest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.0.0_6564effa098b40953e773ba433c76b7237f3e103.jar" />
     </item>
 
 </items>
