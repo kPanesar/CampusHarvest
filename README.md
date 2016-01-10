@@ -1,4 +1,4 @@
-# CampusHarvest
+# [CampusHarvest](http://kpanesar.github.io/CampusHarvest/)
 Campus Harvest is designed as a comprehensive tool for CSUN students to build healthy and personalized diet plans based on the Associated Students Farmer’s Market held on campus every Tuesdays from 10 AM to 2 PM.
 ##### What is In It for You?
 * Personalized diet/snack plans under a given budget
